@@ -1,8 +1,8 @@
 {
-    "url": "https://raw.githubusercontent.com/superman85/bbrepo/main/swagger.yaml",
+    "url": "https://raw.githubusercontent.com/bugbounty-web/bbrepo/main/swagger.yaml",
     "urls": [
         {
-            "url": "https://raw.githubusercontent.com/superman85/bbrepo/main/swagger.yaml",
+            "url": "https://raw.githubusercontent.com/bugbounty-web/bbrepo/main/swagger.yaml",
             "name": "Foo"
         }
     ]
