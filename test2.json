@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/bugbounty-web/bbrepo/main/oauth2.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/bugbounty-web/bbrepo/main/oauth2.yaml",
+            "name": "Foo"
+        }
+    ]
+}
