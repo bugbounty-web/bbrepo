@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <svg><title><title><a href="</title><iframe onload=alert(origin)>"></title></title></svg>
+    <svg><title><title><a href="</title><img onload=alert(origin)>"></title></title></svg>
 
   version: production
 basePath: /JSSResource/
